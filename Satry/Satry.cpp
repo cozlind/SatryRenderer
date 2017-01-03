@@ -550,7 +550,7 @@ inline void inputProc()
 			isLockKey = true;
 			fileIO.Reset();
 			objList = new Obj[10];
-			fileIO.OpenObjFile(filePath, "ccube.obj");
+			fileIO.OpenObjFile(filePath, "skull.obj");
 			numMat = fileIO.LoadAllMat(matList);
 			while (fileIO.LoadObjModel(objList[numObj++], matList));
 			fileIO.CloseFile();
