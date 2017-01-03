@@ -1,0 +1,40 @@
+newmtl b0af7b_dds
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+map_Kd 86b0af7b.bmp
+map_Ka 86b0af7b.bmp
+Ni 1.50
+Ks 0.10 0.10 0.10
+Ns 10.00
+newmtl d1a3b_dds
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+map_Kd 104d1a3b.bmp
+map_Ka 104d1a3b.bmp
+Ni 1.50
+Ks 0.10 0.10 0.10
+Ns 10.00
+newmtl e0ef839a_dds
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+map_Kd e0ef839a.bmp
+map_Ka e0ef839a.bmp
+Ni 1.50
+Ks 0.10 0.10 0.10
+Ns 10.00
+newmtl ed159b47_dds
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+map_Kd ed159b47.bmp
+map_Ka ed159b47.bmp
+Ni 1.50
+Ks 0.10 0.10 0.10
+Ns 10.00
